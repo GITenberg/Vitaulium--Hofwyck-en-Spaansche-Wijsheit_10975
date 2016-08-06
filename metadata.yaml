@@ -1,0 +1,35 @@
+_repo: Vitaulium--Hofwyck-en-Spaansche-Wijsheit_10975
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huygens, Constantijn
+    aliases:
+    - Huygens, Constantijn, Heer van Zuilichem
+    - Huigens, H. C. (H. Constantijn)
+    - Hujgens, Constantin
+    - Hvigens, Constantyn
+    - Huygens, Konstantyn
+    birthdate: 1596
+    deathdate: 1687
+    gutenberg_agent_id: '3780'
+    url: http://www.gutenberg.org/2009/agents/3780
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Constantijn_Huygens
+    - http://en.wikipedia.org/wiki/Constantijn_Huygens
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10975'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Huygens, Constantijn, 1596-1687 -- Homes and haunts -- Netherlands -- Voorburg
+  -- Poetry'
+- !lcc 'PT'
+- !lcsh 'Poets, Dutch -- Homes and haunts -- Netherlands -- Voorburg -- Poetry'
+- GITenberg
+title: 'Vitaulium: Hofwyck en Spaansche Wijsheit'
+url: http://www.gutenberg.org/ebooks/10975
